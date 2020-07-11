@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "vercel/vercel",
+    "stargazers_count": 5522,
+    "open_issues_count": 138,
+    "forks_count": 712
+  },
+  {
+    "full_name": "vercel/next.js",
+    "stargazers_count": 50576,
+    "open_issues_count": 631,
+    "forks_count": 7833
+  },
+  {
     "full_name": "palantir/blueprint",
     "stargazers_count": 16417,
     "open_issues_count": 513,
