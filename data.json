@@ -1,32 +1,32 @@
 [
   {
     "full_name": "google/tsunami-security-scanner",
-    "stargazers_count": 6543,
+    "stargazers_count": 6544,
     "open_issues_count": 35,
     "forks_count": 664
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 158980,
-    "open_issues_count": 628,
-    "forks_count": 31563
+    "stargazers_count": 159032,
+    "open_issues_count": 629,
+    "forks_count": 31571
   },
   {
     "full_name": "vercel/vercel",
-    "stargazers_count": 6272,
+    "stargazers_count": 6274,
     "open_issues_count": 111,
-    "forks_count": 803
+    "forks_count": 804
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 56877,
-    "open_issues_count": 805,
-    "forks_count": 9499
+    "stargazers_count": 56912,
+    "open_issues_count": 804,
+    "forks_count": 9513
   },
   {
     "full_name": "palantir/blueprint",
-    "stargazers_count": 16933,
-    "open_issues_count": 535,
+    "stargazers_count": 16935,
+    "open_issues_count": 536,
     "forks_count": 1765
   }
 ]
